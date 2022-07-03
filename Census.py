@@ -123,7 +123,7 @@ print('Decision Tree : ' ,accuracy_score(y_test,y_dtp))
 # print('GaussianNB : ' ,accuracy_score(y_test,y_gbp))
 
 '''
-OUTPUT :
+OUTPUT : 
 Random forest :  0.8514689323369843
 Decision Tree :  0.8192240761592794
 After feature engineering
